@@ -24,7 +24,7 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - run: npx astro build --base /abhinav-website
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
