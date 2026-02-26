@@ -1,0 +1,135 @@
+[
+  {
+    "course": "Introduction to Deep Learning",
+    "courseNumber": "CMSC 472 / 498L",
+    "role": "instructor",
+    "semester": "Spring 2019",
+    "shortSemester": "Spring'19",
+    "year": 2019,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/spring2019/cmsc498L/"
+  },
+  {
+    "course": "Introduction to Deep Learning",
+    "courseNumber": "CMSC 472 / 498L",
+    "role": "instructor",
+    "semester": "Spring 2020",
+    "shortSemester": "Spring'20",
+    "year": 2020,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/spring2020/cmsc498L/"
+  },
+  {
+    "course": "Introduction to Deep Learning",
+    "courseNumber": "CMSC 472 / 498L",
+    "role": "instructor",
+    "semester": "Spring 2021",
+    "shortSemester": "Spring'21",
+    "year": 2021,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/spring2021/cmsc472/"
+  },
+  {
+    "course": "Introduction to Deep Learning",
+    "courseNumber": "CMSC 472 / 498L",
+    "role": "instructor",
+    "semester": "Spring 2023",
+    "shortSemester": "Spring'23",
+    "year": 2023,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/spring2023/cmsc472/"
+  },
+  {
+    "course": "Introduction to Deep Learning",
+    "courseNumber": "CMSC 472 / 498L",
+    "role": "instructor",
+    "semester": "Spring 2024",
+    "shortSemester": "Spring'24",
+    "year": 2024,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/spring2024/cmsc472/"
+  },
+  {
+    "course": "Introduction to Deep Learning",
+    "courseNumber": "CMSC 472 / 498L",
+    "role": "instructor",
+    "semester": "Fall 2024",
+    "shortSemester": "Fall'24",
+    "year": 2024,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "https://www.cs.umd.edu/class/fall2024/cmsc472/"
+  },
+  {
+    "course": "Visual Learning and Recognition",
+    "courseNumber": "CMSC 828I",
+    "role": "instructor",
+    "semester": "Fall 2018",
+    "shortSemester": "Fall'18",
+    "year": 2018,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/fall2018/cmsc828i/"
+  },
+  {
+    "course": "Visual Learning and Recognition",
+    "courseNumber": "CMSC 828I",
+    "role": "instructor",
+    "semester": "Fall 2019",
+    "shortSemester": "Fall'19",
+    "year": 2019,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/fall2019/cmsc828I/"
+  },
+  {
+    "course": "Visual Learning and Recognition",
+    "courseNumber": "CMSC 828I",
+    "role": "instructor",
+    "semester": "Fall 2020",
+    "shortSemester": "Fall'20",
+    "year": 2020,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/fall2020/cmsc828i/"
+  },
+  {
+    "course": "Visual Learning and Recognition",
+    "courseNumber": "CMSC 828I",
+    "role": "instructor",
+    "semester": "Fall 2021",
+    "shortSemester": "Fall'21",
+    "year": 2021,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/fall2021/cmsc828i/"
+  },
+  {
+    "course": "Visual Learning and Recognition",
+    "courseNumber": "CMSC 828I",
+    "role": "instructor",
+    "semester": "Fall 2023",
+    "shortSemester": "Fall'23",
+    "year": 2023,
+    "university": "University of Maryland",
+    "designed": true,
+    "url": "http://www.cs.umd.edu/class/fall2023/cmsc828i/"
+  },
+  {
+    "course": "Geometry-based Methods in Vision",
+    "courseNumber": null,
+    "role": "teaching-assistant",
+    "semester": "Spring 2013",
+    "shortSemester": "Spring'13",
+    "year": 2013,
+    "university": "Carnegie Mellon University",
+    "designed": false,
+    "instructor": "Martial Hebert",
+    "url": null
+  }
+]

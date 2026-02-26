@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Action localization in images and videos using relational features",
+    "inventors": ["C. Sun", "A. Shrivastava", "C. L. Schmid", "R. Sukthankar", "K. P. Murphy", "C. M. Vondrick"],
+    "number": "US 11163989",
+    "year": null,
+    "status": "granted",
+    "assignee": "Google Inc."
+  },
+  {
+    "title": "Visual Tracking by Colorization",
+    "inventors": ["A. Shrivastava", "A. Fathi", "S. G. Cotado", "K. P. Murphy", "C. M. Vondrick"],
+    "number": "US20210089777A1",
+    "year": null,
+    "status": "granted",
+    "assignee": "Google Inc."
+  },
+  {
+    "title": "Learning Compressible Features",
+    "inventors": ["A. Shrivastava", "S. Singh", "J. Balle", "S. A. Haija", "N. Johnston", "G. Toderici"],
+    "number": "US20200311548A1",
+    "year": null,
+    "status": "granted",
+    "assignee": "Google Inc."
+  },
+  {
+    "title": "Compression of Machine-Learned Models via Entropy Penalized Weight Reparameterization",
+    "inventors": ["D. Oktay", "S. Singh", "J. Balle", "A. Shrivastava"],
+    "number": "US20200364603A1",
+    "year": null,
+    "status": "granted",
+    "assignee": "Google Inc."
+  },
+  {
+    "title": "Determining documents that match a query",
+    "inventors": ["S. Mehrotra", "J. Li", "A. Shrivastava"],
+    "number": "US9442929B2",
+    "year": null,
+    "status": "granted",
+    "assignee": "Microsoft Technology Licensing LLC"
+  }
+]

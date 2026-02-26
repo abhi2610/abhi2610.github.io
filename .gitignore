@@ -10,8 +10,8 @@ CLAUDE.md
 # Reference files (old site, CV, prototype)
 reference/
 
-# Stale workspace files
-data/
+# Stale workspace files (root-level only, not src/data/)
+/data/
 *.code-workspace
 
 # Internal planning docs

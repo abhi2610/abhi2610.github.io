@@ -1,0 +1,293 @@
+[
+  {
+    "role": "Workshops Chair",
+    "organization": "CVPR",
+    "years": "2025",
+    "type": "organizer"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "CVPR",
+    "years": "2018, 2019, 2021, 2023–2026",
+    "type": "area-chair"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "ECCV",
+    "years": "2018, 2024, 2026",
+    "type": "area-chair"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "ICCV",
+    "years": "2023, 2025",
+    "type": "area-chair"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "WACV",
+    "years": "2021, 2024–2025",
+    "type": "area-chair"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "CoRL",
+    "years": "2025",
+    "type": "area-chair"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "ACCV",
+    "years": "2024",
+    "type": "area-chair"
+  },
+  {
+    "role": "Area Chair",
+    "organization": "AAAI",
+    "years": "2021",
+    "type": "area-chair"
+  },
+  {
+    "role": "Editor",
+    "organization": "IJCV",
+    "years": "2023–present",
+    "type": "editorial-board"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "ICCV",
+    "years": "2011–2021",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "CVPR",
+    "years": "2012–2017, 2020",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "ECCV",
+    "years": "2012–2020",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "NeurIPS",
+    "years": "2012–2015, 2025",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "ACCV",
+    "years": "2012–2014",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "SIGGRAPH",
+    "years": "2014",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "AAAI",
+    "years": "2015",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "3DV",
+    "years": "2014–2015",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "WACV",
+    "years": "2026",
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "IJCV",
+    "years": null,
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "TPAMI",
+    "years": null,
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "CVIU",
+    "years": null,
+    "type": "reviewer"
+  },
+  {
+    "role": "Reviewer",
+    "organization": "TKDE",
+    "years": null,
+    "type": "reviewer"
+  },
+  {
+    "role": "NSF",
+    "organization": "Robust Intelligence, Small",
+    "years": "2020, 2023",
+    "type": "panel-reviewer"
+  },
+  {
+    "role": "NSF",
+    "organization": "CAREER",
+    "years": "2024–2026",
+    "type": "panel-reviewer"
+  },
+  {
+    "role": "European Research Council",
+    "organization": null,
+    "years": "2023",
+    "type": "panel-reviewer"
+  },
+  {
+    "role": "Swiss NSF",
+    "organization": null,
+    "years": "2025",
+    "type": "panel-reviewer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Open World Vision",
+    "venue": "CVPR",
+    "years": "2026",
+    "url": "https://vplow.github.io/vplow_6th.html",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Open World Vision",
+    "venue": "CVPR",
+    "years": "2025",
+    "url": "https://vplow.github.io/vplow_5th.html",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Implicit Neural Representation for Vision",
+    "venue": "CVPR",
+    "years": "2024",
+    "url": "https://inrv.github.io/",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Open World Vision",
+    "venue": "CVPR",
+    "years": "2024",
+    "url": "https://vplow.github.io/vplow_4th.html",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Open World Vision",
+    "venue": "CVPR",
+    "years": "2023",
+    "url": "https://vplow.github.io/vplow_3rd.html",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "DNOW: Dealing with Novelty in Open Worlds",
+    "venue": "WACV",
+    "years": "2023",
+    "url": "https://www.cs.umd.edu/~pulkit/DNOW_workshop_2/",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Open World Vision",
+    "venue": "CVPR",
+    "years": "2022",
+    "url": "http://www.cs.cmu.edu/~shuk/vplow.html",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Designing Artificial Intelligence for Open Worlds",
+    "venue": "AAAI Symposium",
+    "years": "2022",
+    "url": "https://usc-isi-i2.github.io/AAAI2022SS/",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "DNOW: Dealing with Novelty in Open Worlds",
+    "venue": "WACV",
+    "years": "2022",
+    "url": "https://www.cs.umd.edu/~pulkit/DNOW_workshop/",
+    "type": "organizer"
+  },
+  {
+    "role": "Organizer",
+    "workshop": "Open World Vision",
+    "venue": "CVPR",
+    "years": "2021",
+    "url": "http://www.cs.cmu.edu/~shuk/open-world-vision.html",
+    "type": "organizer"
+  },
+  {
+    "label": "AI Institute of Maryland (AIM), Research Seed Award Committee",
+    "years": "2025–2026",
+    "type": "university-service"
+  },
+  {
+    "label": "Chair, AIM Compute Committee",
+    "years": "2024–2025",
+    "type": "university-service"
+  },
+  {
+    "label": "Computer Science Department Council",
+    "years": "2024",
+    "type": "university-service"
+  },
+  {
+    "label": "Provost's AI Strategic Planning Committee",
+    "years": "2023",
+    "type": "university-service"
+  },
+  {
+    "label": "Various ad-hoc committees (CS, UMIACS)",
+    "years": "2022–2023",
+    "type": "university-service"
+  },
+  {
+    "label": "CS Faculty Search Committee",
+    "years": "2018–2020, 2022–2023",
+    "type": "university-service"
+  },
+  {
+    "label": "Iribe Building Committee",
+    "years": "2018–2020",
+    "type": "university-service"
+  },
+  {
+    "label": "Judge, Northrop Grumman Image Recognition Challenge",
+    "years": "2018",
+    "type": "university-service"
+  },
+  {
+    "label": "Ph.D. Committees",
+    "years": "2018–present",
+    "type": "university-service"
+  },
+  {
+    "label": "Master's Thesis Committees",
+    "years": "2018–present",
+    "type": "university-service"
+  },
+  {
+    "label": "Graduate Admissions Committee (CMU)",
+    "years": "2015–2016",
+    "type": "university-service"
+  }
+]

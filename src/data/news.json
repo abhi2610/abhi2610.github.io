@@ -1,0 +1,27 @@
+[
+  {
+    "date": "Feb 2026",
+    "text": "Three papers accepted at CVPR 2026 (<a href='/publications/#ScaleSpaceDiffusion'>Scale Space Diffusion</a>, <a href='/publications/#UPLiFT'>UPLiFT</a>, <a href='/publications/#omni-retrieval'>Omni Retrieval</a>).",
+    "url": null
+  },
+  {
+    "date": "Feb 2026",
+    "text": "One paper accepted at ICRA 2026 (<a href='/publications/#verigraph'>VeriGraph</a>).",
+    "url": null
+  },
+  {
+    "date": "Jan 2026",
+    "text": "Two papers accepted at ICLR 2026 (<a href='/publications/#nerv-diffusion'>NeRV-Diffusion</a>, <a href='/publications/#evolutionary-caching'>Evolutionary Caching</a>).",
+    "url": null
+  },
+  {
+    "date": "Dec 2025",
+    "text": "<a href='https://hywang66.github.io/' target='_blank' rel='noopener'>Hanyu Wang</a> defended his PhD, joining Luma AI.",
+    "url": null
+  },
+  {
+    "date": "Oct 2025",
+    "text": "<a href='https://hmchuong.github.io/' target='_blank' rel='noopener'>Chuong Huynh</a> defended his PhD, joining Pinterest Research.",
+    "url": null
+  }
+]

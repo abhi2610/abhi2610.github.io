@@ -1,0 +1,170 @@
+[
+  {
+    "title": "UMD Researchers Are Creating a Bio-Nose That Smells for Real",
+    "outlet": "Maryland Today",
+    "year": "2023",
+    "url": "https://today.umd.edu/umd-researchers-are-creating-a-bio-nose-that-smells-for-real",
+    "description": null
+  },
+  {
+    "title": "Can Chopping Fruit Help Computers Learn?",
+    "outlet": "Maryland Today",
+    "year": "2023",
+    "url": "https://today.umd.edu/can-chopping-fruit-help-computers-learn",
+    "description": null
+  },
+  {
+    "title": "Researchers create dataset to address object recognition problem in machine learning",
+    "outlet": "TechXplore",
+    "year": "2023",
+    "url": "https://techxplore.com/news/2023-10-dataset-recognition-problem-machine.html",
+    "description": null
+  },
+  {
+    "title": "Chop & Learn: Teaching Computers to Recognize Food in All Forms",
+    "outlet": "UMIACS Blog",
+    "year": "2023",
+    "url": "https://www.cs.umd.edu/article/2023/10/chop-learn-teaching-computers-recognize-food-all-forms",
+    "description": null
+  },
+  {
+    "title": "Hollywood is Scared to Death with AI, But Will Love this Cutting-Edge Innovation",
+    "outlet": "Medium Blog",
+    "year": "2023",
+    "url": "https://medium.com/@ignacio.de.gregorio.noblejas/hollywood-is-scared-to-death-with-ai-but-will-love-this-cutting-edge-innovation-676cba09427e",
+    "description": null
+  },
+  {
+    "title": "Self-Supervised Tracking via Video Colorization",
+    "outlet": "Google AI Blog",
+    "year": "2018",
+    "url": "https://ai.googleblog.com/2018/06/self-supervised-tracking-via-video.html",
+    "description": null
+  },
+  {
+    "title": "Revisiting the Unreasonable Effectiveness of Data",
+    "outlet": "Google Research Blog",
+    "year": "2017",
+    "url": "https://research.googleblog.com/2017/07/revisiting-unreasonable-effectiveness.html",
+    "description": null
+  },
+  {
+    "title": "AI And 'Enormous Data' Could Make Tech Giants Harder to Topple",
+    "outlet": "Wired",
+    "year": "2017",
+    "url": "https://www.wired.com/story/ai-and-enormous-data-could-make-tech-giants-harder-to-topple/",
+    "description": null
+  },
+  {
+    "title": "The Greatest Hits, and Misses, of an Image-Learning AI",
+    "outlet": "Discover Magazine",
+    "year": "2015",
+    "url": "http://discovermagazine.com/2015/april/8-this-computers-always-in-school",
+    "description": null
+  },
+  {
+    "title": "Thinking Tech (Top-10 Ideas of 2013)",
+    "outlet": "CNN",
+    "year": "2013",
+    "url": "http://www.cnn.com/interactive/2013/12/tech/cnn10-ideas/",
+    "description": "NEIL project selected as one of CNN's Top-10 Ideas of 2013"
+  },
+  {
+    "title": "Computer Learns Common Sense From The Internet",
+    "outlet": "Forbes",
+    "year": "2013",
+    "url": "http://www.forbes.com/sites/bridaineparnell/2013/11/26/computer-learns-common-sense-from-the-internet/",
+    "description": "Coverage of the NEIL project for extracting visual knowledge from web data"
+  },
+  {
+    "title": "Watch out, WATSON. You've got competition",
+    "outlet": "Newsweek",
+    "year": "2013",
+    "url": "http://www.newsweek.com/watch-out-watson-youve-got-competition-207452",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "Computer uses images to teach itself common sense",
+    "outlet": "BBC News",
+    "year": "2013",
+    "url": "http://www.bbc.com/news/technology-25090534",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "New research aims to teach computers common sense",
+    "outlet": "Yahoo! News",
+    "year": "2013",
+    "url": "https://www.yahoo.com/news/research-aims-teach-computers-common-sense-173213728.html",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "Researchers Are Trying To Teach Computers Common Sense",
+    "outlet": "Business Insider",
+    "year": "2013",
+    "url": "http://www.businessinsider.com/researchers-are-trying-to-teach-computors-common-sense-2013-11",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "New research aims to teach computers common sense",
+    "outlet": "Associated Press (AP)",
+    "year": "2013",
+    "url": "http://bigstory.ap.org/article/new-research-aims-teach-computers-common-sense",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "CMU AI Learning Common Sense By Watching the Internet",
+    "outlet": "Slashdot",
+    "year": "2013",
+    "url": "https://slashdot.org/story/13/11/24/2352232/cmu-ai-learning-common-sense-by-watching-the-internetwork",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "Carnegie Mellon computer learns common sense through pictures, shows what it's thinking",
+    "outlet": "Engadget",
+    "year": "2013",
+    "url": "https://www.engadget.com/2013/11/21/carnegie-mellon-image-learning-computer/",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "Meet NEIL, the computer that thinks like you do",
+    "outlet": "Techradar",
+    "year": "2013",
+    "url": "http://www.techradar.com/news/world-of-tech/meet-neil-the-computer-that-thinks-like-you-do-1218037",
+    "description": "Coverage of the NEIL project"
+  },
+  {
+    "title": "CMU Researchers One-Up Google Image Search & Photosynth With Visual Similarity Engine",
+    "outlet": "TechCrunch",
+    "year": "2011",
+    "url": "https://techcrunch.com/2011/12/06/cmu-researchers-one-up-google-image-search-and-photosynth-with-visual-similarity-engine/",
+    "description": "Coverage of cross-domain visual similarity matching research"
+  },
+  {
+    "title": "Computerized method for matching images in photos, paintings, sketches created",
+    "outlet": "Science Daily",
+    "year": "2011",
+    "url": "https://www.sciencedaily.com/releases/2011/12/111206115246.htm",
+    "description": "Coverage of cross-domain image matching research"
+  },
+  {
+    "title": "A better search for visually similar images",
+    "outlet": "Y! Hacker News",
+    "year": "2011",
+    "url": "https://news.ycombinator.com/item?id=3322429",
+    "description": "Coverage of cross-domain image matching research"
+  },
+  {
+    "title": "CMU algorithm matches sketches, paintings to photographs",
+    "outlet": "New Atlas",
+    "year": "2011",
+    "url": "http://newatlas.com/carnegie-mellon-computer-image-matching/20757/",
+    "description": "Coverage of cross-domain image matching research (formerly Gizmag)"
+  },
+  {
+    "title": "Identifying Similar Images Across Domains",
+    "outlet": "CCC (Computing Community Consortium)",
+    "year": "2011",
+    "url": "http://archive2.cra.org/ccc-old/rh-imatch.php",
+    "description": "CRA Research Highlight of the week"
+  }
+]

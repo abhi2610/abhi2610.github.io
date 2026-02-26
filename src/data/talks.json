@@ -1,0 +1,152 @@
+[
+  {
+    "title": "From Pixels to Plans: Structured Visual Alignment for Sequential Robotic Decision Making",
+    "venue": "The Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS)",
+    "year": 2025,
+    "location": null
+  },
+  {
+    "title": "From Demonstrations to Instructions: Enabling Long-term Robot Planning",
+    "venue": "Hitachi",
+    "year": 2024,
+    "location": "Japan"
+  },
+  {
+    "title": "From Demonstrations to Instructions: Enabling Long-term Robot Planning",
+    "venue": "Waseda University",
+    "year": 2024,
+    "location": "Japan"
+  },
+  {
+    "title": "The Vision-Language Dilemma: A Case Study of Object-Attribute Compositional Learning",
+    "venue": "NAE and JHU Forum on Engineered AI Systems",
+    "year": 2024,
+    "location": null
+  },
+  {
+    "title": "Unified Representation Learning",
+    "venue": "White House event: \"Opportunities at the AI Research Frontier\"",
+    "year": 2024,
+    "location": "White House"
+  },
+  {
+    "title": "Revisiting Object-attribute Compositional Learning",
+    "venue": "AI Workshop: Seoul National University",
+    "year": 2023,
+    "location": "South Korea"
+  },
+  {
+    "title": "Revisiting Object-attribute Compositional Learning",
+    "venue": "AI Workshop: Yonsei University",
+    "year": 2023,
+    "location": "South Korea"
+  },
+  {
+    "title": "Compositional Learning for Object-centric Attributes and Relations",
+    "venue": "UMD CS Dept. Colloquium",
+    "year": 2023,
+    "location": null
+  },
+  {
+    "title": "Reviving Object Discovery: Where from & Where to?",
+    "venue": "Symposium/retreat: Willow team at INRIA",
+    "year": 2022,
+    "location": "France"
+  },
+  {
+    "title": "Reviving Object Discovery: Where from & Where to?",
+    "venue": "Workshop: Visual Perception and Learning in an Open World, CVPR",
+    "year": 2022,
+    "location": null
+  },
+  {
+    "title": "Reviving Object Discovery: Where from & Where to?",
+    "venue": "Workshop: Open World Vision, CVPR",
+    "year": 2021,
+    "location": null
+  },
+  {
+    "title": "Computer Vision in BFSI and Retail",
+    "venue": "NASSCOM Xperience AI Summit",
+    "year": 2021,
+    "location": null
+  },
+  {
+    "title": "Generating and Detecting Falsified Media: A.I.'s Cat-and-Mouse Game",
+    "venue": "NIST",
+    "year": 2019,
+    "location": null
+  },
+  {
+    "title": "Exploratory, Relational, and Predictive Learning",
+    "venue": "Machine Common Sense, Telluride Neuromorphic Cognition Engineering Workshop",
+    "year": 2019,
+    "location": null
+  },
+  {
+    "title": "Top-down Mechanisms in Bottom-up Deep Networks",
+    "venue": "Workshop on Deep Learning, University of Maryland, College Park",
+    "year": 2017,
+    "location": null
+  },
+  {
+    "title": "The Small and the Rare: the Twin Menace of Visual Recognition",
+    "venue": "Facebook FAIR",
+    "year": 2017,
+    "location": null
+  },
+  {
+    "title": "The Small and the Rare: the Twin Menace of Visual Recognition",
+    "venue": "4Catalyzer",
+    "year": 2017,
+    "location": null
+  },
+  {
+    "title": "The Small and the Rare: the Twin Menace of Visual Recognition",
+    "venue": "Colloquium: University of Maryland, College Park",
+    "year": 2017,
+    "location": null
+  },
+  {
+    "title": "The Small and the Rare: the Twin Menace of Visual Recognition",
+    "venue": "GRASP Seminar: University of Pennsylvania",
+    "year": 2017,
+    "location": null
+  },
+  {
+    "title": "Training Region-based Object Detectors with Online Hard Example Mining",
+    "venue": "CVPR",
+    "year": 2016,
+    "location": null
+  },
+  {
+    "title": "NEIL: Extracting Visual Knowledge from Web Data",
+    "venue": "CMU VASC Seminar",
+    "year": 2013,
+    "location": null
+  },
+  {
+    "title": "NEIL: Extracting Visual Knowledge from Web Data",
+    "venue": "ICCV",
+    "year": 2013,
+    "location": null
+  },
+  {
+    "title": "Constrained Semi-Supervised Learning using Attributes and Comparative Attributes",
+    "venue": "CMU VASC Seminar",
+    "year": 2012,
+    "location": null
+  },
+  {
+    "title": "Constrained Semi-Supervised Learning using Attributes and Comparative Attributes",
+    "venue": "ECCV",
+    "year": 2012,
+    "location": null
+  },
+  {
+    "title": "Data-driven Visual Similarity for Cross-domain Image Matching",
+    "venue": "SIGGRAPH Asia",
+    "year": 2011,
+    "location": null
+  }
+]

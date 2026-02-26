@@ -1,0 +1,712 @@
+{
+  "abhinav-shrivastava": {
+    "name": "Abhinav Shrivastava",
+    "url": null,
+    "role": "self",
+    "status": "current",
+    "currentPosition": null,
+    "photo": null
+  },
+  "anirud-aggarwal": {
+    "name": "Anirud Aggarwal",
+    "url": "https://aniaggarwal.github.io/",
+    "role": "collaborator",
+    "status": "current",
+    "currentPosition": null,
+    "photo": null
+  },
+  "prateksha-udhayanan": {
+    "name": "Prateksha Udhayanan",
+    "url": "https://prateksha.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://prateksha.github.io/images/Prateksha_2_cropped.jpg",
+    "start_year": 2024
+  },
+  "inbum-park": {
+    "name": "Inbum (Aaron) Park",
+    "url": "https://inbumpark.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://inbumpark.github.io/images/headshot-front.png",
+    "start_year": 2025
+  },
+  "archit-kambhamettu": {
+    "name": "Archit Kambhamettu",
+    "url": "https://architkam.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://architkam.github.io/omsairam_profile.jpg",
+    "start_year": 2025,
+    "co_advisor_display": {
+      "name": "Prof. Leo Liu",
+      "url": "https://zcliu.cs.umd.edu/"
+    }
+  },
+  "yixuan-ren": {
+    "name": "Yixuan Ren",
+    "url": "https://ryx19th.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://ryx19th.github.io/images/1708885100870.jpeg",
+    "start_year": 2018
+  },
+  "soumik-mukhopadhyay": {
+    "name": "Soumik Mukhopadhyay",
+    "url": "https://soumik-kanad.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://soumik-kanad.github.io/assets/img/prof_pic.png",
+    "start_year": 2020
+  },
+  "pulkit-kumar": {
+    "name": "Pulkit Kumar",
+    "url": "https://www.cs.umd.edu/~pulkit/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://www.cs.umd.edu/~pulkit/pk_new_img.png",
+    "start_year": 2021,
+    "also_ms": true
+  },
+  "matthew-walmer": {
+    "name": "Matthew Walmer",
+    "url": "http://www.cs.umd.edu/~mwalmer/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://www.cs.umd.edu/~mwalmer/images/photo_280.jpg",
+    "start_year": 2019
+  },
+  "anubhav": {
+    "name": "Anubhav",
+    "url": "https://learn2phoenix.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://learn2phoenix.github.io/files/Anubhav.jpeg",
+    "start_year": 2022,
+    "also_ms": true
+  },
+  "archana-swaminathan": {
+    "name": "Archana Swaminathan",
+    "url": "https://archana1998.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://archana1998.github.io/images/avatar.jpg",
+    "start_year": 2022
+  },
+  "vatsal-agarwal": {
+    "name": "Vatsal Agarwal",
+    "url": "https://vatsalag99.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://vatsalag99.github.io/images/profile.jpg",
+    "start_year": 2022
+  },
+  "namitha-padmanabhan": {
+    "name": "Namitha Padmanabhan",
+    "url": "https://namithap10.github.io/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://namithap10.github.io/images/np_profile.jpg",
+    "start_year": 2024,
+    "also_ms": true
+  },
+  "daniel-ekpo": {
+    "name": "Daniel Ekpo",
+    "url": "https://danielekpo.com/",
+    "role": "phd-student",
+    "status": "current",
+    "currentPosition": null,
+    "photo": "https://danielekpo.com/images/profile.jpg",
+    "start_year": 2023
+  },
+  "mara-levy": {
+    "name": "Mara Levy",
+    "url": "https://mlevy2525.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Assured Robust Intelligence (ARI)",
+    "photo": null,
+    "graduation_year": 2025,
+    "first_position": {
+      "title": "Founding Research Scientist",
+      "org": "Assured Robust Intelligence (ARI)"
+    },
+    "current_position": {
+      "title": "Founding Research Scientist",
+      "org": "Assured Robust Intelligence (ARI)"
+    },
+    "thesis": "From Demonstration to Dynamic Interaction: Enabling Long-Term Robotic Planning"
+  },
+  "nirat-saini": {
+    "name": "Nirat Saini",
+    "url": "https://www.cs.umd.edu/~nirat/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Waymo",
+    "photo": null,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Software Engineer",
+      "org": "Waymo"
+    },
+    "current_position": {
+      "title": "Software Engineer",
+      "org": "Waymo"
+    },
+    "thesis": "Object-Attribute Compositionality for Visual Understanding"
+  },
+  "saksham-suri": {
+    "name": "Saksham Suri",
+    "url": "http://www.cs.umd.edu/~sakshams/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Meta Research",
+    "photo": null,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Meta Reality Labs"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Meta Reality Labs"
+    },
+    "thesis": "Supervision and Data Dynamics in Vision Across Recognition and Generation Landscapes"
+  },
+  "sharath-girish": {
+    "name": "Sharath Girish",
+    "url": "https://sharath-girish.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Snap Research",
+    "photo": null,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Snap Research"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Snap Research"
+    },
+    "thesis": "Everything Efficient All at Once: Compressing Data and Deep Networks"
+  },
+  "shuaiyi-huang": {
+    "name": "Shuaiyi Huang",
+    "url": "https://shuaiyihuang.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Amazon (FAR)",
+    "photo": null,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Meta"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Amazon (FAR)"
+    },
+    "thesis": "Learning Structured Alignment: From Visual Understanding to Robot Control",
+    "graduation_year": 2025,
+    "positions": [
+      "Meta",
+      "Amazon (FAR)"
+    ]
+  },
+  "gaurav-shrivastava": {
+    "name": "Gaurav Shrivastava",
+    "url": "http://www.cs.umd.edu/~gauravsh/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Amazon",
+    "photo": null,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Applied Scientist",
+      "org": "Amazon"
+    },
+    "current_position": {
+      "title": "Applied Scientist",
+      "org": "Amazon"
+    },
+    "thesis": "Advanced Video Modeling Techniques for Generation and Enhancement Tasks",
+    "also_ms": true
+  },
+  "shishira-maiya": {
+    "name": "Shishira R Maiya",
+    "url": "https://www.cs.umd.edu/~shishira/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Stealth Start-up",
+    "photo": null,
+    "graduation_year": 2025,
+    "first_position": {
+      "title": "Founder",
+      "org": "Video AI Startup (Stealth)"
+    },
+    "current_position": {
+      "title": "Founder",
+      "org": "Video AI Startup (Stealth)"
+    },
+    "thesis": "Neural Networks as Databases: From Data to Model Compression",
+    "also_ms": true
+  },
+  "hanyu-wang": {
+    "name": "Hanyu Wang",
+    "url": "https://hywang66.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Luma AI (Start-up)",
+    "photo": null,
+    "graduation_year": 2025,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Luma AI"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Luma AI"
+    },
+    "thesis": "Generating Visual Content: From Pixel Orders to Videos and Beyond"
+  },
+  "matt-gwilliam": {
+    "name": "Matthew Gwilliam",
+    "url": "https://mgwillia.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "TikTok",
+    "photo": null,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "TikTok"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "TikTok"
+    },
+    "thesis": "Understanding and Modeling Explicit and Implicit Representations of the Visual World"
+  },
+  "manh-luong": {
+    "name": "Manh Luong",
+    "url": "https://v-manhlt3.github.io/tienmanhptit1312.github.io/",
+    "role": "collaborator",
+    "status": null,
+    "currentPosition": null
+  },
+  "chuong-huynh": {
+    "name": "Chuong Huynh",
+    "url": "https://hmchuong.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Pinterest Research",
+    "photo": null,
+    "graduation_year": 2025,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Pinterest Research"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Pinterest Research"
+    },
+    "thesis": "Interactive Vision Systems with Visual and Textual Prompts"
+  },
+  "bo-he": {
+    "name": "Bo He",
+    "url": "https://boheumd.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Meta Research",
+    "photo": null,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Meta"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Meta"
+    },
+    "thesis": "Towards Effective Temporal Modeling for Video Understanding"
+  },
+  "khoi-pham": {
+    "name": "Khoi Pham",
+    "url": "https://scholar.google.com/citations?user=o7hS8EcAAAAJ&hl=en",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Meta Research",
+    "photo": null,
+    "graduation_year": 2023,
+    "first_position": {
+      "title": "Applied Research Scientist",
+      "org": "Meta"
+    },
+    "current_position": {
+      "title": "Applied Research Scientist",
+      "org": "Meta"
+    },
+    "thesis": "Recognizing Object-Centric Attributes and Relations"
+  },
+  "kamal-gupta": {
+    "name": "Kamal Gupta",
+    "url": "https://kampta.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Tesla Robotics",
+    "photo": null,
+    "graduation_year": 2023,
+    "first_position": {
+      "title": "Senior Research Scientist",
+      "org": "Tesla Optimus"
+    },
+    "current_position": {
+      "title": "Senior Research Scientist",
+      "org": "Tesla Optimus"
+    },
+    "thesis": "Learning and Composing Primitives for the Visual World"
+  },
+  "hao-chen": {
+    "name": "Hao Chen",
+    "url": "https://haochen-rye.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "ByteDance Research",
+    "photo": null,
+    "thesis": "An Efficient Neural Representation for Videos",
+    "graduation_year": 2023,
+    "first_position": {
+      "title": "Postdoctoral Researcher",
+      "org": "Meta"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "ByteDance"
+    },
+    "positions": [
+      "Meta (PostDoc)",
+      "ByteDance"
+    ]
+  },
+  "saketh-rambhatla": {
+    "name": "Sai Saketh Rambhatla",
+    "url": "https://rssaketh.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Skild AI",
+    "photo": null,
+    "graduation_year": 2022,
+    "first_position": {
+      "title": "Postdoctoral Researcher",
+      "org": "Meta"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Skild AI"
+    },
+    "thesis": "Towards In-the-Wild Visual Understanding",
+    "co_advisor": "rama-chellappa",
+    "positions": [
+      "Meta (PostDoc)",
+      "Meta",
+      "Skild AI"
+    ]
+  },
+  "moustafa-meshry": {
+    "name": "Moustafa Meshry",
+    "url": "https://scholar.google.com/citations?user=nf7lnq4AAAAJ&hl=en",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Meta Research",
+    "photo": null,
+    "thesis": "Neural Rendering Techniques for Photo-realistic Image Generation and Novel View Synthesis",
+    "graduation_year": 2022,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Meta"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Meta"
+    },
+    "co_advisor": "larry-davis"
+  },
+  "max-ehrlich": {
+    "name": "Max Ehrlich",
+    "url": "https://maxlikelihood.ai/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "NVIDIA",
+    "photo": null,
+    "thesis": "The First Principles of Deep Learning and Compression",
+    "graduation_year": 2022,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "NVIDIA"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "NVIDIA"
+    },
+    "co_advisor": "larry-davis"
+  },
+  "luyu-yang": {
+    "name": "Luyu Yang",
+    "url": "https://www.loyo.me/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Salesforce Research",
+    "photo": null,
+    "graduation_year": 2022,
+    "first_position": {
+      "title": "Applied Scientist",
+      "org": "Cruise"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Salesforce Research"
+    },
+    "thesis": "Practical Robust Learning Under Domain Shifts",
+    "co_advisor": "larry-davis",
+    "positions": [
+      "Cruise",
+      "Salesforce Research"
+    ]
+  },
+  "pallabi-ghosh": {
+    "name": "Pallabi Ghosh",
+    "url": "https://www.cs.umd.edu/~pallabig/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Amazon",
+    "photo": null,
+    "graduation_year": 2020,
+    "first_position": {
+      "title": "Applied Scientist",
+      "org": "Amazon"
+    },
+    "current_position": {
+      "title": "Applied Scientist",
+      "org": "Amazon"
+    },
+    "thesis": "Scene and Action Understanding Using Context and Knowledge Sharing",
+    "co_advisor": "larry-davis"
+  },
+  "navaneeth-bodla": {
+    "name": "Navaneeth Bodla",
+    "url": "https://scholar.google.com/citations?user=PEBgNwoAAAAJ&hl=en",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "Adobe (Firefly)",
+    "photo": null,
+    "thesis": "Learning to Detect, Predict, and Synthesize Objects",
+    "graduation_year": 2020,
+    "first_position": {
+      "title": "Applied Scientist",
+      "org": "Amazon"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Adobe (Firefly)"
+    },
+    "co_advisor": "rama-chellappa",
+    "positions": [
+      "Amazon",
+      "Cruise",
+      "Start-up",
+      "Adobe (Firefly)"
+    ]
+  },
+  "ahmed-taha": {
+    "name": "Ahmed Taha",
+    "url": "https://ahmdtaha.github.io/",
+    "role": "phd-student",
+    "status": "graduated",
+    "currentPosition": "WhiteRabbit.AI",
+    "photo": null,
+    "thesis": "Closing the Gap Between Classification and Retrieval Models",
+    "graduation_year": 2021,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "WhiteRabbit.AI"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "WhiteRabbit.AI"
+    },
+    "co_advisor": "larry-davis"
+  },
+  "lillian-huang": {
+    "name": "Lillian Huang",
+    "url": "https://lilhuang.github.io/",
+    "role": "ms-student",
+    "status": "graduated",
+    "currentPosition": "Ford Motor Credit + Artist",
+    "photo": null,
+    "awards": [
+      "NSF Fellow"
+    ]
+  },
+  "sonaal-kant": {
+    "name": "Sonaal Kant",
+    "url": "https://www.linkedin.com/in/sonaal-kant-03b707103/",
+    "role": "ms-student",
+    "status": "graduated",
+    "currentPosition": "Amazon → Causify → Imagry",
+    "photo": null,
+    "graduation_year": 2023
+  },
+  "vinoj-jayasundara": {
+    "name": "Vinoj Jayasundara",
+    "url": "https://vinojjayasundara.github.io/",
+    "role": "ms-student",
+    "status": "graduated",
+    "currentPosition": null,
+    "photo": null,
+    "graduation_year": 2024,
+    "memorial": true
+  },
+  "abhinav-gupta": {
+    "name": "Abhinav Gupta",
+    "url": "http://www.cs.cmu.edu/~abhinavg",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "alexei-a-efros": {
+    "name": "Alexei A. Efros",
+    "url": "https://people.eecs.berkeley.edu/~efros/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "carl-vondrick": {
+    "name": "Carl Vondrick",
+    "url": "http://www.cs.columbia.edu/~vondrick/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "chen-sun": {
+    "name": "Chen Sun",
+    "url": "https://research.google.com/pubs/ChenSun.html",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "hengduo-li": {
+    "name": "Hengduo Li",
+    "url": "https://henrylee2570.github.io/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "ishan-misra": {
+    "name": "Ishan Misra",
+    "url": "http://www.cs.cmu.edu/~imisra/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "kevin-murphy": {
+    "name": "Kevin Murphy",
+    "url": "https://ai.google/research/people/KevinMurphy",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "larry-davis": {
+    "name": "Larry Davis",
+    "url": null,
+    "role": "collaborator",
+    "status": "current"
+  },
+  "martial-hebert": {
+    "name": "Martial Hebert",
+    "url": "http://www.cs.cmu.edu/~hebert",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "matthias-zwicker": {
+    "name": "Matthias Zwicker",
+    "url": null,
+    "role": "collaborator",
+    "status": "current"
+  },
+  "rahul-sukthankar": {
+    "name": "Rahul Sukthankar",
+    "url": "http://www.cs.cmu.edu/~rahuls/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "rama-chellappa": {
+    "name": "Rama Chellappa",
+    "url": null,
+    "role": "collaborator",
+    "status": "current"
+  },
+  "saurabh-singh": {
+    "name": "Saurabh Singh",
+    "url": "http://www.saurabhsingh.info/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "ser-nam-lim": {
+    "name": "Ser-Nam Lim",
+    "url": null,
+    "role": "collaborator",
+    "status": "current"
+  },
+  "xinlei-chen": {
+    "name": "Xinlei Chen",
+    "url": "http://xinleic.xyz/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "xitong-yang": {
+    "name": "Xitong Yang",
+    "url": null,
+    "role": "collaborator",
+    "status": "current"
+  },
+  "zhe-lin": {
+    "name": "Zhe Lin",
+    "url": null,
+    "role": "collaborator",
+    "status": "current"
+  },
+  "zuxuan-wu": {
+    "name": "Zuxuan Wu",
+    "url": "http://zxwu.azurewebsites.net/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "pravin-nagar": {
+    "name": "Pravin Nagar",
+    "url": "https://pravin74.github.io/",
+    "role": "postdoc",
+    "status": "graduated",
+    "currentPosition": "Dolby Research",
+    "photo": null,
+    "start_year": 2022,
+    "graduation_year": 2024,
+    "first_position": {
+      "title": "Research Scientist",
+      "org": "Dolby Research"
+    },
+    "current_position": {
+      "title": "Research Scientist",
+      "org": "Dolby Research"
+    }
+  },
+  "hernisa-kacorri": {
+    "name": "Hernisa Kacorri",
+    "url": "https://ischool.umd.edu/directory/hernisa-kacorri/",
+    "role": "collaborator",
+    "status": "current"
+  }
+}

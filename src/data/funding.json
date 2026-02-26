@@ -1,0 +1,210 @@
+[
+  {
+    "agency": "IARPA",
+    "program": "VideoLINCS (PI)",
+    "title": "HERMAGORAS: Encoding, Recognizing, Mapping, And Geolocating Objects Reappearing Across Sensors",
+    "role": "PI",
+    "years": "2026-2028",
+    "agencyLogo": null
+  },
+  {
+    "agency": "IARPA",
+    "program": "SMART2WRIVA (PI)",
+    "title": "Geospatial Generative AI: Cross-Modal Synthesis and Consistent Rendering",
+    "role": "PI",
+    "years": "2025-2026",
+    "agencyLogo": null
+  },
+  {
+    "agency": "IARPA",
+    "program": "WRIVA",
+    "title": "AAVISS: Anytime, Anywhere Visualization of Sites",
+    "role": "Co-PI",
+    "years": "2024-2026",
+    "agencyLogo": null
+  },
+  {
+    "agency": "IARPA",
+    "program": "SMART",
+    "title": "ASTUTE: Automated Spectral and Temporal Understanding of Tiered Events",
+    "role": "Co-PI",
+    "years": "2021-2025",
+    "agencyLogo": null
+  },
+  {
+    "agency": "IARPA",
+    "program": "DIVA",
+    "title": "Multi-camera Based Detection of Objects, Persons, and Activities",
+    "role": "Senior Personnel",
+    "years": null,
+    "agencyLogo": null
+  },
+  {
+    "agency": "Apple",
+    "program": "Research Award",
+    "title": null,
+    "role": "PI",
+    "years": "2025-2026",
+    "agencyLogo": null
+  },
+  {
+    "agency": "NAIRR",
+    "program": "Pilot Resource Allocation",
+    "title": null,
+    "role": "PI",
+    "years": "2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Amazon",
+    "program": "Research Award",
+    "title": null,
+    "role": "PI",
+    "years": "2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Amazon",
+    "program": "Research Award",
+    "title": null,
+    "role": "PI",
+    "years": "2021",
+    "agencyLogo": null
+  },
+  {
+    "agency": "NSF",
+    "program": "CAREER (PI)",
+    "title": "Representing, Discovering, and Assembling Motifs for Video Understanding",
+    "role": "PI",
+    "years": "2023-2027",
+    "agencyLogo": null
+  },
+  {
+    "agency": "NSF",
+    "program": "EFRI ELiS",
+    "title": "Desiccatable living cell-based sensors to monitor pollutants and pathogens in built environments",
+    "role": "Co-PI",
+    "years": "2023-2027",
+    "agencyLogo": null
+  },
+  {
+    "agency": "NSF",
+    "program": "AI Institute (TRAILS)",
+    "title": "TRustworthy AI in Law & Society Institute",
+    "role": "Senior Personnel",
+    "years": null,
+    "agencyLogo": null
+  },
+  {
+    "agency": "DARPA",
+    "program": "SAIL-ON (PI)",
+    "title": "Synthesizing and Quantifying Novel Videos for Classifying, Detecting, and Tracking Activities",
+    "role": "PI",
+    "years": "2019-2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "DARPA",
+    "program": "SemaFor",
+    "title": "Multi-media Analytics Leading to Intent and Semantic Evidence (MALISE)",
+    "role": "Senior Personnel",
+    "years": "2020-2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "DARPA",
+    "program": "MediFor, MediFor4GeoInt (PI)",
+    "title": "MediFor and MediFor4GeoInt add-ons",
+    "role": "PI",
+    "years": "2019-2021",
+    "agencyLogo": null
+  },
+  {
+    "agency": "DARPA",
+    "program": "GARD",
+    "title": "Repelling Evasion and Poisoning Attacks: A Principled Way Forward",
+    "role": "Co-PI",
+    "years": "2019-2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Meta",
+    "program": "Multi-year Contract",
+    "title": "Towards Solving the Cat-and-Mouse Problem of Media Tampering",
+    "role": "PI",
+    "years": "2018-2025",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Air Force",
+    "program": "STTR Phase I & II",
+    "title": "Self-Learned Agents for Collective Analysis of Human Activities and Events in Aerial Videos",
+    "role": "PI",
+    "years": "2019-2022",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Honda",
+    "program": "Multi-year Contract",
+    "title": "Temporal Multimodal Data Segmentation",
+    "role": "PI",
+    "years": "2018-2019",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Adobe",
+    "program": "Gift",
+    "title": null,
+    "role": "PI",
+    "years": "2019-2022",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Google",
+    "program": "Gift",
+    "title": null,
+    "role": "PI",
+    "years": "2020",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Google",
+    "program": "EduGrant",
+    "title": "GCP Grant for CMSC498L",
+    "role": "PI",
+    "years": "2019-2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Google",
+    "program": "EduGrant",
+    "title": "GCP Grant for CMSC828I",
+    "role": "PI",
+    "years": "2018-2023",
+    "agencyLogo": null
+  },
+  {
+    "agency": "Google",
+    "program": "Gift",
+    "title": null,
+    "role": "PI",
+    "years": "2024",
+    "agencyLogo": null
+  },
+  {
+    "agency": "MIPS",
+    "program": "Maryland Industrial Partnerships",
+    "title": "Advanced Chemical Sensor Array ML (N5 Sensors)",
+    "role": "PI",
+    "years": "2024-2025",
+    "agencyLogo": null
+  },
+  {
+    "agency": "AIM",
+    "program": "Seed Grant",
+    "title": "with Hernisa Kacorri",
+    "role": "Co-PI",
+    "years": null,
+    "agencyLogo": null
+  }
+]
