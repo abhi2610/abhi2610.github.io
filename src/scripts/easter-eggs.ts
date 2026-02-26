@@ -1,10 +1,10 @@
 // Konami code: ↑↑↓↓←→←→BA
 function initKonami() {
-  let buffer: number[] = [];
-  const code = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65];
+  let buffer: string[] = [];
+  const code = ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
 
   document.addEventListener('keydown', (e) => {
-    buffer.push(e.keyCode);
+    buffer.push(e.key);
     if (buffer.length > code.length) buffer.shift();
     if (JSON.stringify(buffer) === JSON.stringify(code)) {
       document.body.style.transition = 'transform 0.5s ease';
@@ -17,8 +17,9 @@ function initKonami() {
 
 // Double-click name → ☕ + drink (cycles wine/whiskey each time)
 function initNameClick() {
-  const name = document.getElementById('sidebarName');
+  const name = document.getElementById('sidebarName') as HTMLElement | null;
   if (!name) return;
+  const el = name; // TS narrows this to HTMLElement
   const base = 'Abhinav Shrivastava';
   const drinks = ['\ud83c\udf77', '\ud83e\udd43'];
   let drinkIdx = 0;
@@ -29,19 +30,19 @@ function initNameClick() {
 
   function activate() {
     active = true;
-    name.style.whiteSpace = 'nowrap';
-    name.style.transition = 'color 0.3s ease';
-    name.style.color = '#a0522d';
-    name.innerHTML = `<span style="font-size:0.55em;margin-right:6px">\u2615</span>${base}<span style="font-size:0.55em;margin-left:6px">${drinks[drinkIdx]}</span>`;
+    el.style.whiteSpace = 'nowrap';
+    el.style.transition = 'color 0.3s ease';
+    el.style.color = '#a0522d';
+    el.innerHTML = `<span style="font-size:0.55em;margin-right:6px">\u2615</span>${base}<span style="font-size:0.55em;margin-left:6px">${drinks[drinkIdx]}</span>`;
     drinkIdx = (drinkIdx + 1) % drinks.length;
     clearTimer = setTimeout(deactivate, 4000);
   }
 
   function deactivate() {
     active = false;
-    name.innerHTML = base;
-    name.style.color = '';
-    name.style.whiteSpace = '';
+    el.innerHTML = base;
+    el.style.color = '';
+    el.style.whiteSpace = '';
     if (clearTimer) { clearTimeout(clearTimer); clearTimer = null; }
   }
 
