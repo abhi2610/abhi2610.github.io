@@ -17,7 +17,6 @@
     "webpage": "https://soumik-kanad.github.io/diff2lip/",
     "code": "https://github.com/soumik-kanad/diff2lip"
   },
-  // "thumbnail": "https://soumik-kanad.github.io/assets/img/publication_preview/diff2lip.png",
-  "thumbnail": "images/diff2lip_thumbnail2.gif",
+  "thumbnail": "images/thumbnails/diff2lip_thumbnail2.gif",
   "date": "2023-10"
 }

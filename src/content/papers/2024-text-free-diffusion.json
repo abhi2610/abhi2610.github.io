@@ -26,7 +26,6 @@
     "webpage": "https://mgwillia.github.io/diffssl/",
     "code": "https://github.com/soumik-kanad/diffssl"
   },
-  // "thumbnail": "https://mgwillia.github.io/diffssl/imgs/diffssl_teaser.png",
-  "thumbnail": "images/diffssl_thumbnail.gif",
+  "thumbnail": "images/thumbnails/diffssl_thumbnail.gif",
   "date": "2024-07"
 }
