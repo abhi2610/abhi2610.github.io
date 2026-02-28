@@ -24,6 +24,6 @@
     "pdf": "https://arxiv.org/abs/2311.10873",
     "code": "https://github.com/facebookresearch/video_rep_learning"
   },
-  "thumbnail": "http://www.cs.umd.edu/~mwalmer/images/mvformer.png",
+  "thumbnail": "images/thumbnails/multi-entity-video-transformers.png",
   "date": "2025-03"
 }
