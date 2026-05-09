@@ -9,6 +9,7 @@
   "undergrad_interns": [
     { "name": "Anirud Aggarwal", "note": "Video AI Startup (Stealth)", "trajectory": true, "url": "https://aniaggarwal.com/", "award": "CRA Outstanding Undergraduate Researcher - Honorable Mention" },
     { "name": "Archit Kambhamettu", "note": "PhD at UMD", "trajectory": true, "url": "https://architkam.github.io/" },
+    { "name": "Vatsal Baherwani", "note": "PhD at NYU", "trajectory": true, "url": "https://vatsal0.github.io/", "award": "NSF Graduate Research Fellowship" },
     { "name": "Vatsal Agarwal", "note": "PhD at UMD", "trajectory": true, "url": "https://vatsalag99.github.io/" },
     { "name": "Eric Zhu", "note": "MS at CMU", "trajectory": true, "url": "https://ericzhu718.github.io/" },
     { "name": "Anjali Gupta", "note": "Summer'23", "trajectory": true, "trajectoryNote": "PhD at NYU", "url": "https://anjaliwgupta.com/" },

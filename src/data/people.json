@@ -50,10 +50,18 @@
     "name": "Yixuan Ren",
     "url": "https://ryx19th.github.io/",
     "role": "phd-student",
-    "status": "current",
-    "currentPosition": null,
+    "status": "graduated",
+    "currentPosition": "Luma AI",
     "photo": "https://ryx19th.github.io/images/1708885100870.jpeg",
-    "start_year": 2018
+    "start_year": 2018,
+    "graduation_year": 2026,
+    "first_position": {
+      "org": "Luma AI"
+    },
+    "current_position": {
+      "org": "Luma AI"
+    },
+    "thesis": "Toward Adaptive and Efficient Visual Synthesis of Appearance, Dynamics and Semantics"
   },
   "soumik-mukhopadhyay": {
     "name": "Soumik Mukhopadhyay",
@@ -135,7 +143,7 @@
     "url": "https://mlevy2525.github.io/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "Assured Robust Intelligence (ARI)",
+    "currentPosition": "Stealth Start-up",
     "photo": null,
     "graduation_year": 2025,
     "first_position": {
@@ -143,8 +151,7 @@
       "org": "Assured Robust Intelligence (ARI)"
     },
     "current_position": {
-      "title": "Founding Research Scientist",
-      "org": "Assured Robust Intelligence (ARI)"
+      "org": "Stealth Start-up"
     },
     "thesis": "From Demonstration to Dynamic Interaction: Enabling Long-Term Robotic Planning"
   },
@@ -382,7 +389,7 @@
     "url": "https://haochen-rye.github.io/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "ByteDance Research",
+    "currentPosition": "Meta",
     "photo": null,
     "thesis": "An Efficient Neural Representation for Videos",
     "graduation_year": 2023,
@@ -391,12 +398,12 @@
       "org": "Meta"
     },
     "current_position": {
-      "title": "Research Scientist",
-      "org": "ByteDance"
+      "org": "Meta"
     },
     "positions": [
       "Meta (PostDoc)",
-      "ByteDance"
+      "ByteDance",
+      "Meta"
     ]
   },
   "saketh-rambhatla": {
