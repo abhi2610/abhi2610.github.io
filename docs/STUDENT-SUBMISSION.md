@@ -102,18 +102,7 @@ A thumbnail is **required** for every paper. It appears next to your paper on th
 
 **Format: GIF preferred** if you have an animated teaser (e.g., video results, method visualization). Otherwise use PNG or JPG.
 
-**GIF file size: aim for under 2 MB.** Large GIFs slow down page load. To reduce size without losing color quality, drop frames using [gifsicle](https://www.lcdf.org/gifsicle/):
-
-```bash
-# Drop every other frame (keeps every 2nd), double delay to maintain speed
-gifsicle -O3 -U input.gif $(seq -f '#%g' 0 2 LAST_FRAME) -o temp.gif
-gifsicle -d DOUBLE_ORIGINAL_DELAY temp.gif -o output.gif
-
-# Check frame count and delay: gifsicle -I input.gif | head -8
-# If still too large, keep every 3rd frame (0 3 6 ...) and triple the delay
-```
-
-Do **not** reduce color count — that visibly degrades quality. Dropping frames and resizing to 400px wide are the best levers.
+**GIF file size: aim for under 2 MB.** Large GIFs slow down page load. The best levers are resizing to 400px wide and keeping the clip short. Don't reduce the color count — that visibly degrades quality. If your GIF is still over 2 MB, submit it anyway; we compress it on our end by dropping frames (`scripts/compress-gif.sh`).
 
 **Add to the repo.** Place the image at `public/images/thumbnails/your-paper-id.gif` and reference it as:
 
