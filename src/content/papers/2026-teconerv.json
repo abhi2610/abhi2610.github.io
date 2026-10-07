@@ -1,0 +1,22 @@
+{
+  "id": "teconerv",
+  "title": "TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos",
+  "authors": [
+    "namitha-padmanabhan",
+    "matt-gwilliam",
+    "abhinav-shrivastava"
+  ],
+  "venue": "BMVC",
+  "year": 2026,
+  "tags": [
+    "new",
+    "oral"
+  ],
+  "links": {
+    "pdf": "https://arxiv.org/abs/2602.16711",
+    "webpage": "https://namithap10.github.io/teconerv/",
+    "code": "https://github.com/namithap10/TeCoNeRV"
+  },
+  "thumbnail": "images/thumbnails/teconerv.gif",
+  "date": "2026-08"
+}
