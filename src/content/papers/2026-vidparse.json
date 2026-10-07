@@ -1,0 +1,23 @@
+{
+  "id": "vidparse",
+  "title": "VidParse: Online Parsing of Egocentric Procedures Like a Pro",
+  "authors": [
+    "anubhav",
+    "archit-kambhamettu",
+    "vatsal-agarwal",
+    "pulkit-kumar",
+    "abhinav-shrivastava"
+  ],
+  "venue": "ECCV",
+  "year": 2026,
+  "tags": [
+    "new"
+  ],
+  "links": {
+    "pdf": "https://arxiv.org/abs/2608.27562",
+    "webpage": "https://learn2phoenix.github.io/VidParse/",
+    "code": "https://github.com/learn2phoenix/VidParse"
+  },
+  "thumbnail": "images/thumbnails/vidparse.gif",
+  "date": "2026-07"
+}
