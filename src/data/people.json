@@ -143,7 +143,7 @@
     "url": "https://mlevy2525.github.io/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "Stealth Start-up",
+    "currentPosition": "Index Robots",
     "photo": null,
     "graduation_year": 2025,
     "first_position": {
@@ -151,7 +151,8 @@
       "org": "Assured Robust Intelligence (ARI)"
     },
     "current_position": {
-      "org": "Stealth Start-up"
+      "org": "Index Robots",
+      "url": "https://indexrobots.ai/"
     },
     "thesis": "From Demonstration to Dynamic Interaction: Enabling Long-Term Robotic Planning"
   },
@@ -178,7 +179,7 @@
     "url": "http://www.cs.umd.edu/~sakshams/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "Meta Research",
+    "currentPosition": "Atoms",
     "photo": null,
     "graduation_year": 2024,
     "first_position": {
@@ -186,8 +187,8 @@
       "org": "Meta Reality Labs"
     },
     "current_position": {
-      "title": "Research Scientist",
-      "org": "Meta Reality Labs"
+      "org": "Atoms",
+      "url": "https://atoms.co/"
     },
     "thesis": "Supervision and Data Dynamics in Vision Across Recognition and Generation Landscapes"
   },
@@ -196,7 +197,7 @@
     "url": "https://sharath-girish.github.io/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "Snap Research",
+    "currentPosition": "Dotmo",
     "photo": null,
     "graduation_year": 2024,
     "first_position": {
@@ -204,8 +205,8 @@
       "org": "Snap Research"
     },
     "current_position": {
-      "title": "Research Scientist",
-      "org": "Snap Research"
+      "org": "Dotmo",
+      "note": "Snap spinoff"
     },
     "thesis": "Everything Efficient All at Once: Compressing Data and Deep Networks"
   },
@@ -371,7 +372,7 @@
     "url": "https://kampta.github.io/",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "Tesla Robotics",
+    "currentPosition": "Stealth Start-up",
     "photo": null,
     "graduation_year": 2023,
     "first_position": {
@@ -379,8 +380,7 @@
       "org": "Tesla Optimus"
     },
     "current_position": {
-      "title": "Senior Research Scientist",
-      "org": "Tesla Optimus"
+      "org": "Stealth Start-up"
     },
     "thesis": "Learning and Composing Primitives for the Visual World"
   },
