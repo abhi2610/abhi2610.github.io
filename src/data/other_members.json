@@ -7,7 +7,7 @@
     { "name": "Yubo Wang", "note": "Waseda University", "url": "https://waybob.sleepysheep.app/" }
   ],
   "undergrad_interns": [
-    { "name": "Anirud Aggarwal", "note": "Video AI Startup (Stealth)", "trajectory": true, "url": "https://aniaggarwal.com/", "award": "CRA Outstanding Undergraduate Researcher - Honorable Mention" },
+    { "name": "Anirud Aggarwal", "note": "Video AI Startup (Stealth)", "trajectory": true, "url": "https://aniaggarwal.com/", "award": "NSF GRFP | CRA Outstanding UG Researcher - HM" },
     { "name": "Archit Kambhamettu", "note": "PhD at UMD", "trajectory": true, "url": "https://architkam.github.io/" },
     { "name": "Vatsal Baherwani", "note": "PhD at NYU", "trajectory": true, "url": "https://vatsal0.github.io/", "award": "NSF Graduate Research Fellowship" },
     { "name": "Vatsal Agarwal", "note": "PhD at UMD", "trajectory": true, "url": "https://vatsalag99.github.io/" },
