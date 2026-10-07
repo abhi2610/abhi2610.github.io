@@ -515,7 +515,7 @@
     "url": "https://scholar.google.com/citations?user=PEBgNwoAAAAJ&hl=en",
     "role": "phd-student",
     "status": "graduated",
-    "currentPosition": "Adobe (Firefly)",
+    "currentPosition": "Deccan AI",
     "photo": null,
     "thesis": "Learning to Detect, Predict, and Synthesize Objects",
     "graduation_year": 2020,
@@ -524,15 +524,15 @@
       "org": "Amazon"
     },
     "current_position": {
-      "title": "Research Scientist",
-      "org": "Adobe (Firefly)"
+      "org": "Deccan AI"
     },
     "co_advisor": "rama-chellappa",
     "positions": [
       "Amazon",
       "Cruise",
       "Start-up",
-      "Adobe (Firefly)"
+      "Adobe (Firefly)",
+      "Deccan AI"
     ]
   },
   "ahmed-taha": {
