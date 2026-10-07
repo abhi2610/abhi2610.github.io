@@ -55,7 +55,7 @@ const venueField = isJournal
 
 // Find pdf URL for url field
 const pdfUrl = paper.links?.pdf || paper.links?.webpage || '';
-const urlField = pdfUrl ? `\n  url={${pdfUrl}}` : '';
+const urlField = pdfUrl ? `,\n  url={${pdfUrl}}` : '';
 
 const bibtex = `@${entryType}{${citeKey},
   title={{${paper.title}}},
