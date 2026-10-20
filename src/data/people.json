@@ -86,10 +86,18 @@
     "name": "Matthew Walmer",
     "url": "http://www.cs.umd.edu/~mwalmer/",
     "role": "phd-student",
-    "status": "current",
-    "currentPosition": null,
+    "status": "graduated",
+    "currentPosition": "Waymo",
     "photo": "https://www.cs.umd.edu/~mwalmer/images/photo_280.jpg",
-    "start_year": 2019
+    "start_year": 2019,
+    "graduation_year": 2026,
+    "first_position": {
+      "org": "Waymo"
+    },
+    "current_position": {
+      "org": "Waymo"
+    },
+    "thesis": null
   },
   "anubhav": {
     "name": "Anubhav",
