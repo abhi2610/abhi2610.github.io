@@ -17,12 +17,16 @@ const currentStudents = entries
 // PhD Alumni (graduated PhD students)
 const phdAlumni = entries
   .filter(([_, p]) => p.status === 'graduated' && p.role === 'phd-student')
-  .sort((a, b) => (b[1].graduation_year || 0) - (a[1].graduation_year || 0));
+  .sort((a, b) =>
+    (b[1].graduation_year || 0) - (a[1].graduation_year || 0)
+    || (b[1].graduation_date || '').localeCompare(a[1].graduation_date || ''));
 
 // Post-docs
 const postdocs = entries
   .filter(([_, p]) => p.role === 'postdoc')
-  .sort((a, b) => (b[1].graduation_year || 0) - (a[1].graduation_year || 0));
+  .sort((a, b) =>
+    (b[1].graduation_year || 0) - (a[1].graduation_year || 0)
+    || (b[1].graduation_date || '').localeCompare(a[1].graduation_date || ''));
 
 // MS Alumni: explicit ms-students + PhD students who also did MS
 const msOnly = entries

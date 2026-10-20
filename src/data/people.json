@@ -61,7 +61,8 @@
     "current_position": {
       "org": "Luma AI"
     },
-    "thesis": "Toward Adaptive and Efficient Visual Synthesis of Appearance, Dynamics and Semantics"
+    "thesis": "Toward Adaptive and Efficient Visual Synthesis of Appearance, Dynamics and Semantics",
+    "graduation_date": "2026-04"
   },
   "soumik-mukhopadhyay": {
     "name": "Soumik Mukhopadhyay",
@@ -97,7 +98,8 @@
     "current_position": {
       "org": "Waymo"
     },
-    "thesis": null
+    "thesis": "Improving Deep Networks by Learning from their Failures and Successes",
+    "graduation_date": "2026-10"
   },
   "anubhav": {
     "name": "Anubhav",
